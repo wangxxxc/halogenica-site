@@ -3,5 +3,5 @@
 	url = https://github.com/halogenica/beautifulhugo
 [submodule "public"]
 	path = public
-	url = https://github.com/halogenica/halogenica.github.io
+	url = git@github.com:halogenica/halogenica.github.io.git
 	branch = master
